@@ -1,0 +1,37 @@
+/* フォントサイズを20pxへ変更 */
+html{
+    font-size: 1.25rem;
+}
+
+body{
+    /* フォントを指定 */
+    font-family: "Arial", "Meiryo", sans-serif;
+    /* 文字の位置をセンターに揃える */
+    text-align: center;
+}
+
+
+/* class="blue"の色指定 */
+.blue{
+    color: blue;
+}
+/* class="pink"の色指定 */
+.pink{
+    color: #ff69b4
+}
+
+/* div要素の太文字に変更 */
+#basic{
+    font-weight: bold;
+}
+
+h1{
+  font-family: "Josefin Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 2px 2px 4px #708090;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
