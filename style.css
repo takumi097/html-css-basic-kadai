@@ -21,7 +21,7 @@ body{
 }
 
 /* div要素の太文字に変更 */
-#basic{
+#basic > p {
     font-weight: bold;
 }
 
