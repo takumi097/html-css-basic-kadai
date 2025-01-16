@@ -17,7 +17,7 @@ body{
 }
 /* class="pink"の色指定 */
 .pink{
-    color: pink
+    color: rgb(255, 192, 203);
 }
 
 /* div要素の太文字に変更 */
