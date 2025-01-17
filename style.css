@@ -24,6 +24,7 @@ a {
 
 main {
     margin: 10px;
+    padding: 10px;
 }
 
 #parent {
@@ -87,6 +88,7 @@ a:hover{
     }
 
     #parent{
-        display: block;
+        display: flex;
+        
     }
 }
