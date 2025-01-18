@@ -88,6 +88,6 @@ a:hover{
 
     #parent{
         display: flex;
-        flex-flow: column-reverse;
+        flex-flow: column;
     }
 }
